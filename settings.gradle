@@ -1,9 +1,8 @@
 pluginManagement {
     repositories {
         maven {
-            // RetroFuturaGradle
-            name 'GTNH Maven'
-            url 'https://nexus.gtnewhorizons.com/repository/public/'
+            name 'XiaoKun Maven'
+            url 'https://maven.mcplugin.top/repository/minecraft/'
             mavenContent {
                 includeGroup 'com.gtnewhorizons'
                 includeGroup 'com.gtnewhorizons.retrofuturagradle'
